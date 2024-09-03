@@ -4,7 +4,7 @@ I have no idea. 🤷
 
 ## for personal use
 
-I dunno, figure it out.
+I dunno
 
 ## example `.env`
 
