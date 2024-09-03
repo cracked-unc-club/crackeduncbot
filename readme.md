@@ -1,6 +1,7 @@
 # dont ask how it works
 
 I have no idea. 🤷
+This is my first time making a discord bot in python, through alot of trial and error, I ended up with this, it works (hopefully) and thats enough for me.
 
 ## for personal use
 
